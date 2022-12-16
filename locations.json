@@ -1,36 +1,2261 @@
-[
-    {
-        "label": "EASTERN", 
-        "value": "EASTERN"        
-    },
-    {
-        "label" : "LUSAKA",
-        "value" : "LUSAKA",
-        "groups" : [
-           { 
-            "group" : "A",
-            "areas" : "PEMBE MILLING, VARUN BEVERAGES, LUSAKA WEST BAKERY AND SURROUNDING INDUSTRIES, STABIC BANK IN LIGH INDUSTRIAL AREA, NISCO INDUSTRIES, APG MILLING, CHOMA MILLING, REAL MEAT COMPANY, UNITED CHEMORIDE, MUKATASHA ENTERPRISES, SAFINTRA ZAMBIA, CLASECON AND CUSTOMERS ALONG MUKATASHA ROAD, ZAMANITA (CARGIL), BEST BEEF, ZAMBEEF HEAD QUARTERS, KEMBE MEAT, VILLAGE INDUSTRIES (CHINIKA NURSING SCHOOL), MAXI PREST TYRES AND CUSTOMERS IN SOME PARTS OF CHINIKA INDUSTRIES, TRADE KINGS, MUSA BISCUITS, CREST CHICKEN, SWISS BAKE AND SOME CUSTOMERS IN SOWETO AREA MARKET, LUSAKA WATER AND SEWERAGE BOOSTER PUMP ALONG LUMUMBA ROAD, CUSTOMERS IN PANGANANI ROAD AND CUSTOMERS IN KALAMBO ROAD IN TOWN CENTER, MMI STEEL, KINGS CHEMICALS, PETRODA HOUSE GREAT NORTH RD, BOC GASES, NATIONAL BREWERIES, EMMASDALE POLICE CAMP AND SURROUNDING AREAS, ZAMBIAN BREWERIES LTD, MAKENI SHOPPING MALL, LAMASAT, LAMISE, SHABICO MILLING CO., SPAR SOWETO, CITY MARKET, SIMOSON BUILDING, CUSTOMERS IN NJASHISHI ROAD NEAR MASTER BUTCHERY, CUSTOMERS IN CHAMAPEPE ROAD AND CUSTOMERS NEAR NYANGU FILLING STATION, TOMBWE TOBACCO PROCESSING LTD, GOODTIME STEEL, GOODTIME STEEL, GIRRHAD MILLING, FAMILY BISCUITS LTD AND ALL SURRROUNDING AREAS / MEDICAL STORES LTD, BATA SHOE COMPANY, CROP PACK LTD, SURROUNDING AREAS, ZAMIM ALONG BUYANTANSHI ROAD, PET PREFORM, SEBA FOODS LTD, ZAMSEED LTD, COMMUNICATIONS AUTHORITY AND SURROUNDING INDUSTRIES, NAMPACK LTD, BARLOWORLD, GLOBAL LOGISTICS AND SURROUNDING INDUSTIRES, ORIENTAL QUARRY"
-        },
-        {
-            "group" : "B",
-            "areas" : "CHAINDA AND PARTS OF OLD AVONDALE, STATE LODGE AREA, NEW KASAMA/OXYGEN GYM, PARTS OF IBEX HILL, ZAF TWIN PALM BASE AND SURROUNDING AREAS, PART OF IBEX HILL, DOVE COURT SCHOOL OF NURSING, RUSSIAN EMBASSY, JAPANESE EMBASSY, CHINESE EMBASSY, BOTSWANA EMBASSY, HIGHLAND HOUSE, OAU COMPLEX, TEVETA, HIGH COURT, SUPREME COURT, CUSTOMERS IN RHODES PARK, CUSTOMERS NEAR ELUNDA PARK, POST NEWSPAPER, PAMODZI HOTEL AND PARTS OF FAIRVIEW, WORLD BANK, LWSC HEAD OFFICE, IMMIGRATION DEPARTMENT, CHAWAMA/YORK FARM, PART OF LILAYI/MILLER FARMS, POLAR ICE, ZNS, EMBASSY MALL, SPAR CHAWAMA, SDA EYE CLINIC, QUALITY FEEDS, NORTH OF CHILANGA/ROSE BREEDERS, MIMOSA, SOUTHERN PART OF CHILANGA/LUSAKA WATER AND SEWERAGE BOOSTER PUMP, MOUNT MAKULU, SOUTHERN PART OF LINDA, RATSA IN LUMUMBA ROAD, CUSTOMERS IN LUANSHYA ROAD AND LUMUMBA ROAD UPTO FAMILY 24, CUSTOMERS IN CHANDWE MUSONDA AND NCHONCHO ROAD, PARTS OF VILLA ELIZABETHA, ZRA, CUSTOMERS IN VILLA ELIZABETHA AND IDEAL FUNERAL HOME, MANDA HILL TRAFFIC LIGHTS, PARTS OF RHODES PARK ALONG ADDIS ABABA DRIVE, PARTS OF SHOWGROUNDS, COMESA HEAD QUARTERS, CHAZ, LASIF, NAPSA AND CUSTOMERS IN BENBELLA ROAD, CHIBOLYA BASIC SCHOOL, BANK OF ZAMBIA, ZANACO HEAD QUARTERS, SHOPRITE CAIRO ROAD, FINANCE BANK HEAD QUARTERS, STABIC BANK HEAD QUARTERS, IMMIGRATION DEPARTMENT, CUSTOMERS ON THE EASTERN SIDE OF CAIRO ROAD UPTO MAIN POST OFFICE, UNIVERSAL CHURCH, FINDECO HOUSE, INTERCITY BUS TERMINALS, MUKUBA PENSION HOUSE IN DEDAN KIMATHI ROAD, LEFT SIDE OF KAFUE RD/UNIVERSAL CHURCH, DOWNTOWN MALL, CUSTOMERS IN TOWN CENTRE ALONG CHACHA ROAD, PARTS OF FREEDOM WAY AND SOCIETY HOUSE, KAMWALA/KAMWALA SHOPPING CENTRE, ZAMBIA ARMY STAFF COLLEGE, KAMWALA SECONDARY SCHOOL, ST PATRICKS BASIC SCHOOL, MAKENI SHOPPING MALL, HIGER BUSES HEAD QUARTERS, CUSTOMERS IN JOHN LAING COMPOUND, METROPOLITAN SCHOOL, KANYAMA WATER TRUST, KALINGALINGA, CROWN MILLERS, STAR MILLING, CHAT BREWERIES, LUSAKA BREAD, CUSTOMERS NEAR MBERESHI RESTAURANT AND LWSC BOOSTER PUMP ALONG MUMBWA ROAD, CUSTOMERS NEAR CHINESE HOTEL AND CHING GASES, CUSTOMERS FROM NDIPO ROAD TO ZAMBIA OPEN UNIVERSITY TURNOFF AND GREEN GARDEN AREA, AQUASAVANNA COMPANY AND CUSTOMERS ALONG NDIPO ROAD, ZAMBIA FAIRY BOTTLING COMPANY, ZESCO MALAMBO, NATIONAL MILLING MALAMBO RD, CALIFORNIAN BEVERAGES, KOBIL FILLING STATION, ZAMBIA SUGAR, MANDA HILL SHOPPING MALL, MAKENI BASIC SCHOOL AND CUSTOMERS FROM ORIENTAL TURNOFF TO AREAS NEAR MAJORU FARMS, MASS MEDIA AREA/NATIONAL ASSEMBLY MOTEL, TOYOTA, ERB, MTN MAIN SWITCH, TRINITY PARK, MULTI CHOICE ZAMBIA, CORPORATE PARK, RDA, BASE PARK, CHINESE, ALLIANCE FRANCAIS, LUSAKA UNIVERSITY, ZPPA, POPE SQUARE, FOOTBALL HOUSE, CIVIC CENTRE, MINISTRY OF EDUCATION, CENTRAL SDA, TRAFFIC LIGHTS JUNCTION OF INDEPENDENCE AND BURMA ROAD, GOVERNMENT PRINTERS, ZAMTEL LAMYA HOUSE, CENTRAL POLICE, MINISTRY OF COMMUNITY DEVELOPMENT, ZRA CUSTOMS ALONG DEDAN KIMATH , BOMA LOCAL COURT, PAMODZI HOTEL, GRAND WESTERN HOTEL OPPOSITE ZESCO HEAD OFFICE, DAILY MAIL IN KABELENGA ROAD, MUMS CARE CLINIC, MINISTRY OF HEALTH IN TULETEKA ROAD, CUSTOMERS ALONG PROVIDENT STREET IN FAIRVIEW, CUSTOMERS IN LUZI ROAD, ASSOCIATED PRINTERS, GODFREY HOUSE OPPOSITE LEVY HOUSE, ARCADES, ODDYS MULUNGUSHI, MULUNGUSHI INTERNATIONAL CONFERENCE CENTRE, ARCACIA PARK, AREAS ALONG THABO MBEKI RD, MASS MEDIA AREA, PART OF KALINGALINGA, CHRISTIAN VOICE RADIO, EAST PARK MALL, CROSS ROADS MALL, SOUTH AFRICAN HIGH COMMISSION, ENGEN FILLING STATION ALONG LEOPARDS HILL ROAD, SAINT MARY'S SCHOOL, TWIN PALM SCHOOL, HILLTOP HOSPITAL, LIBALA SOUTH FROM WATERWORKS UPTO KASAMA ROAD, LIBALA STAGE 1 TO 4, LUSAKA BUSINESS TRADES COLLEGE, DAVID KAUNDA SCHOOL, NIPA BURMA ROAD CAMPUS, PART OF ARAKAN BARRACKS, KATUNGU SHOPPING CENTRE, WINNERS CHAPEL, LUSAKA PRIMARY SCHOOL, CUSTOMERS ON THE WESTERN SIDE OF CAIRO ROAD, NATIONAL MILLING CAIRO ROAD, FARMERS HOUSE, BARCLAYS BANK ON THE NORTH END, STANDARD CHARTERED BANK NORTH END, LOTTI HOUSE, KWACHA HOUSE, MINISTRY OF TOURISM, SOCIETY HOUSE, LEVY PARK SHOPPING MALL"
-        },
-        {
-            "group" : "C",
-            "areas" : "BARLASTONE AREA, TWIKATANE FARMS, EDEN INSTITUTE, FERNGROOVE, KASUPE, MWAKA LODGE, SUNSHARE INDUSTRIES, WONDERFUL CEILING, MT.MERU FILLING STATION ALONG MUNGWI ROAD, MAJORU FARMS, MAKENI WEST SCHOOL, CUSTOMERS NEAR GENERAL MIYANDA, BONAVENTURE COLLEGE AND SURROUNDING AREAS, CUSTOMERS BEHIND ZNS AND LAMISE, ZNS, CUSTOMERS ALONG TEAGLES ROAD AND CASSANOVA STREET, PART OF CUSTOMERS IN BONAVENTURE AREA, PRINCE CHARLES HOTEL, MR. GREY ZULU RESIDENCE AND SURROUNDING AREAS, EUREKA PARK/JAN JAPAN, LAMASAT, NEIL FARMS, CHALIMBANA UNIVERSITY,CHIEFS PALACE, PALABANA, NEW KASAMA BETWEEN MIKANGO AND KYINDU RANCH, KYINDU RANCH, SOUTHERN PART OF NEW KASAMA/MIKANGO BARRACKS, CHONGWE WEST, SILVER REST,BANI HOTEL,CHONGWE EAST,CHONGWE SOUTH &KANAKANTAPA, MPANGO/MPELEKESE, Zambeef Kalundu Dairy, Zambeef Kachele farms, Sable Farms, Zambeef Hantley Farm, Harambe Farm, ADM farms, ZNS, Tembo Farm, Izwi Farm, Mpokota Farm, Ndesa Hills Farm, Grafax Cotton,  Ecoveg Farm,  Zabeef Kalundu Bottom, Bumi Farm, Wady Farm, Old Dar farm, Fringila Farm, Kobil  Fillins station, Pam Zone, Kasanda, Dar Farms Kalola, Siachele Farm, west Gate Farm, Murundura Farm, Trotters butchery, Golden Valley, GART, Matongo Farms,  GM farms & Surrounding Areas, CENA FARMS, SOPELO CAMP, MUNDENGWA AREA, MUZIMBILI RANCH AND SURROUNDING AREAS, DOLOMITE QUARRIES, MUFULANDE QUARRIES, ZAMASTONE LTD, ZNS SAFARI, ROCKY GARDENS, PART OF FERNGROOVE AREA, ZAMBIA ARMY APOLLO CAMP, ZAF MT. EUGENE, ZNS BB CAMP, ZAMBIA HORSE, PART OF FERNGROOVE AREA, BUNDE FARMS, CHIKUPI AREA AND CUSTOMERS ALONG CHRISTIAN VOICE ROAD, SUNRISE FARMS, ZAMBIA CHINA FARMS AND SURROUNDING AREAS, MAKENI ISLAMIC SOCIETY, BUFFALO VILLAGE, CUSTOMERS ALONG MAKENI ROAD UPTO ORIENTAL TURNOFF, SHIBUYUNJI CBA, NKOMBA SCHOOL, MUTUMBI RACHING, LUTHERAN AREA, SHACHELE SCHOOL, NANGOMA HOSPITAL, GINNERY, LUIRI MINE, SENZO AREA, SITUMBEKO AREA, ZAF BASE MUMBWA, NAMBALA, KAINDU, KAMILAMBO, MPUSU, CHIWENA, MUMBWA TOWN, AMATHEON, ZNS KALENDA, KITUMBA PRISON, BIG CONCESSION, MUMBA SCHEME, MAIMWENE RESETTLEMENT AREA, FAIRVIEW HOSPITAL, CUSTOMERS IN FAIRVIEW AND ZAMBIA RAILWAYS AREA, EVELYN HONE, NIPA, ZCAS, LUSAKA CENTRAL POLICE, FAIRVIEW HOTEL, ZAMTEL ALONG CHILUBI ROAD AND CUSTOMERS ALONG PARIRENYATWA ROAD NEAR DHL, 10 MILES, 13MILES, 22MILES, MUNGULE AREA, DMI ST.EUGENE UNIVERSITY, KABANGWE AREA, SHAKAS KRAAL, 6 MILES, AND SURROUNDING AREAS, ZANIMUONE TOWNSHIP, PRECEM AREA, PART OF CHUNGA TOWNSHIP, PART OF KABANANA AND CHAZANGA TOWNSHIP, LANDLESS, CHIBOMBO, MWACHISOPOLA, CHIYUNI, CHITANDA, KEEMBE, KASUKWE, MALAMBANYA, WANGWA FARMS,JUDGE NGOMA, MTN TOWER, PROTEA HOTEL CHISAMBA, ZAMBIA RAILWAYS AND SURROUNDING AREAS, WESTERN PARTS OF SHIMABALA/MAPEPE AGREGATE QUARRY, BASSET FARMS, SUNRISE ESTATE FARMS ALONG MUMBWA ROAD, OKAPY FARMS, KAYPE FARMS, SUNLIGHT FARMS AND CUSTOMERS ALONG MUMBWA ROAD BETWEEN MAKENI POLICE (VILLA LUCIA) CHECK POINT, KALUNDU AREA, MWEMBESHI SATELITE STATION, MWEMBESHI OPEN PRISON, SABLE FARMS, PAROGATE GINNERY, MWEMBESHI MAXIMUM PRISON, HATLEY FARMS, WESTHOOD POLICE STATION, CUSTOMERS IN MWEMBESHI BETWEEN WESTHOOD POLICE AND MWEMBESHI RIVER, EVERGREEN FARMS, MAYFLOWER FARMS, KASHIMA FARMS, SOBI FARMS, MERYDALE FARMS, ZAMBIA CHINA FARMS AND CUSTOMERS BETWEEN SHORTHORN AND KACHETA UPTO NAMPUNDWE ROAD"
-        },
-        {
-            "group" : "D",
-            "areas" : "BAULENI, CHAWAMA CLINIC, CHAWAMA AREA, PARTS OF KAUNDA SQUARE STAGE 1, KAUNDA SQUARE STAGE 2, PART OF CHAMBA VALLEY, PART OF MTENDERE EAST, CHELSTONE, CHELSTONE POLICE CAMP, PART OF AVONDALE, RHODES PARK SCHOOL, CUSTOMERS ALONG SIBWEN ROAD UPTO MACHINCHI ROAD, CHITULI AND CHITEMENE ROAD IN NORTHMEAD AREA, HABITAT FOR HUMANITY TOWNSHIP, FORESTLY COMPLEX TOWNSHIP, OLYMPIC YOUTH DEVELOPMENT CENTRE, MTENDERE, KABULONGA EXTENSION, HELLEN KAUNDA, KABULONGA (LEFT SIDE OF BISHOPS FROM THE TRAFFIC LIGHTS)/MELISA, TOTAL FILLING STATION, KABULONGA (RIGHT SIDE OF BISHOPS RD FROM THE TRAFFIC LIGHTS) PUMA FILLING STATION, PETRODA KALINGALINGA, SUNNINGDALE UNIVERSITY, KABULONGA BOYS AND GIRLS, CUSTOMERS IN MAKENI VILLA, CUSTOMERS NEAR TWASHUKA BASIC SCHOOL AND SURROUNDING AREAS, CUSTOMERS NEAR GARDEN HOUSE AREA, CHISOMO HOSPITAL, ZAMBIAN OPEN UNIVERSITY, SHALOM CLINIC AND CUSTOMERS NEAR MAKENI VILLA AND KANYAMA AREA, MPONDAMALI SCHOOL, CUSTOMERS IN KANYAMA FROM GARDEN HOUSE MARKET TO MUTANDA BANTU AND MBASELA MARKET, MAGUAVA WATCHTOWER AREA, ZAMLEATHER LTD, GEORGE TOWNSHIP, PART OF LILANDA ESTATES, PETRODA LILANDA, LILANDA BAKERY, PART OF MATERO TOWNSHIP NEAR KACHINKA BAR, SHADRECK AREA AND SURROUNDING AREAS, FRESH MARK LTD, BUSEKO MARKET,EMMASDALE AREA, EMMASDALE SDA CHURCH,BREAD OF LIFE CHURCH, ATLANTIC BAKERY, OLYMPIA, ROMA KASANGULA ROAD, KABANANA TOWNSHIP, MATERO MARKET,CHINGWERE CLINIC,CHIPATA CLINIC & TOWNSHIP, SPAR SUPERMARKET GREAT NORTH RD,  DMI SAINT EUGENE UNIVERSITY IN WOODLANDS, ZNBC BAULENI TRANSMITTERS, WOODLANDS SHOPPING MALL, WOODLANDS ZAMTEL EXCHANGE AND SURROUNDING AREAS"
-        },
-        {
-            "group" : "E",
-            "areas" : "ZINGALUME TOWNSHIP, CUSTOMERS ALONG TWIKATANE ROAD AND SURROUNDING AREAS, NEW KASAMA/KEPT COOL REFRIGIRATION, PART OF SALAMA PARK, MTENDERE EAST, PART OF AVONDALE, KAMANGA, PART OF CHELSTONE, PART OF CHAMBA VALLEY, CHELSTONE, AVONDALE , GARDENIA ROAD, HYBRID,PART OF CHAMBAVALLEY , PART OF KAMANGA, LUSAKA WATER AND SEWERAGE HEAD QUARTERS ALONG KATEMO ROAD AND CUSTOMERS STRETCHING FROM CHAOLI TO KATEMO ROAD, LONGACRES (LUBU, KABANGA, SAISSE, NALUBUTO, ADDIS ABABA, ENOCK KAVU ROADS), MINISTRY OF HEALTH PROVINCIAL OFFICE, LWSC BOREHOLES, LONGACRES(LUKASU, NANGWENYA, MTEDZA, ADDIS ABABA ROADS)/MINISTRY OF HEALTH PROVINCIAL OFFICE, LWSC BOREHOLES, PART OF IBEX HILL,  KALIKILIKI, SHOPRITE WHOLESALE, CASTLE MALL, SOUTHERN CROSS MOTORS, TERRA STONE FUNERAL PALOUR, MISISIS, KUKU/AUTOWORLD, CHIBOLYA COMPOUND, ZAMBIA BRANCH OF JEHOVAH'S WITNESSES HEAD QUARTERS, CUSTOMERS NEAR KAVINDELE FARM UPTO SATWANT, PART OF GARDEN TOWNSHIP,  CUSTOMERS ALONG PENDELA ROAD, SURROUNDING AREAS, CHUNGA TOWNSHIP AND SURROUNDING AREAS, LILANDA TOWNSHIP AND SURROUNDING AREAS, ROMA  ZAMBEZI ROAD  AND SURROUNDING AREAS, PART OF NGOMBE ALONG ZAMBEZI RD, JESMONDINE, PART OF KAUNDA SQUARE STAGE 1, PART OF CHAMBA VALLEY, KALUNDU, PART OF ROMA KASANGULA RD AND SURROUNDING AREAS, KAMWALA SOUTH BASIC SCHOOL AND SURROUNDING AREAS, KAMWLA SOUTH, LIBALA SOUTH, KABWATA, CHILENJE/SPAR BAKERY, WOODLANDS EXTENSION, NUYMBA YANGA, WOODLANDS(LAKE ROAD, MUTENDE ROAD"
-        },{
-            "group" : "F",
-            "areas" : "OBAMA, MADIDO AND SURROUNDING AREAS, CHELSTONE GREEN, CHELSTONE PALM DRIVE, RESEARCH INSTITUTE AND SURROUNDING AREAS ALONG AIRPORT ROAD, IBEX MEANWOOD, MANZI, UNITED QUARRIES AND SURROUNDING ARES, WATERFALLS AREA AND AREAS ALONG MOONO ROAD, MEANWOOD NDEKE, NEW KASAMA/FRUIT AND VEG, PILATUS, WANANGWA FARMS, MFEZ, CORPERATIVE COLLEGE, IFUKI BLOCK MAKERS, NEW KASAMA, CHALALA ROCKFIELD/EASTERN QUARRY, ROCK FIELD AND AREAS ALONG SHANTUMBU ROAD, PARTS OF CHALALA, PARTS OF LIBALA SOUTH BEYOND TONKYO ROAD, AREAS NEAR WATERWORKS, LILAYI, CHALALA, APEX MEDICAL UNIVERSITY AND SURROUNDING AREAS, MAHOPO, SHANTUMBU, PART OF LILAYI/AVIC INTERNATIONAL QUARRY, CUSTOMERS NEAR CHINIKA HIGH SCHOOL, KANYAMA CLINIC, CUSTOMERS NEAR KANYAMA CATHOLIC CHURCH, GARDEN TOWNSHIP, ZAMBIA ARMY INFANTLY BRIGADE/ZAMIM, PART OF EMMASDALE NEAR GREAT NORTH RD & PETRODA FILLING STATION, KABWATA, SIKANZE POLICE CAMP/KAMWALA MARKET, GARDEN TOWNSHIP, GARDEN CHILULU AREA, ZESCO CHAISA AND SURROUNDING AREAS, ZESCO MATERO, SHOPRITE MATERO , MELISA MATERO, MATERO POLICE CAMP AND SURROUNDING AREAS, CHRISTIAN VOICE, SABLE CUSTOMERS NEAR NAMPUNDWE MARKET, MEANWOOD KWAMWENA, SOUTHERN PART OF SHIMABALA, PART OF KALUNDU, HANDSWORTH, NGOMBE, JESMONDINE, CHUDLEIGH, MARSHLANDS, LIBALA SOUTH/LUSAKA WATER AND SEWERAGE PUMP STATION, SPAR CHILENJE, NEW CHILENJE, CHILENJE/INTERLAND, BARCLAYS CHILENJE, FNB CHILENJE, CHILENJE MARKET, ZAMBEEF CHILENJE, ROBERTS FISHERIES, WOODLANDS EXTENSION, NYUMBA YANGA, CHILENJE/CHILENJE CLINIC, SHOPRITE CHILENJE, CHILENJE POILCE CAMP"
-        } 
-        ]
-    }
- 
-]
+[{
+    "group": "A",
+    "name": "VARUN BEVERAGES",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "LUSAKA WEST BAKERY AND SURROUNDING INDUSTRIES",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "STABIC BANK IN LIGH INDUSTRIAL AREA",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "NISCO INDUSTRIES",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "APG MILLING",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "CHOMA MILLING",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "REAL MEAT COMPANY",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "UNITED CHEMORIDE",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "MUKATASHA ENTERPRISES",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "SAFINTRA ZAMBIA",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "CLASECON AND CUSTOMERS ALONG MUKATASHA ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "ZAMANITA (CARGIL)",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "BEST BEEF",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "ZAMBEEF HEAD QUARTERS",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "KEMBE MEAT",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "VILLAGE INDUSTRIES (CHINIKA NURSING SCHOOL)",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "MAXI PREST TYRES AND CUSTOMERS IN SOME PARTS OF CHINIKA INDUSTRIES",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "TRADE KINGS",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "MUSA BISCUITS",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "CREST CHICKEN",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "SWISS BAKE AND SOME CUSTOMERS IN SOWETO AREA MARKET",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "LUSAKA WATER AND SEWERAGE BOOSTER PUMP ALONG LUMUMBA ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "CUSTOMERS IN PANGANANI ROAD AND CUSTOMERS IN KALAMBO ROAD IN TOWN CENTER",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "MMI STEEL",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "KINGS CHEMICALS",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "PETRODA HOUSE GREAT NORTH RD",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "BOC GASES",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "NATIONAL BREWERIES",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "EMMASDALE POLICE CAMP AND SURROUNDING AREAS",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "ZAMBIAN BREWERIES LTD",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "MAKENI SHOPPING MALL",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "LAMASAT",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "LAMISE",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "SHABICO MILLING CO.",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "SPAR SOWETO",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "CITY MARKET",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "SIMOSON BUILDING",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "CUSTOMERS IN NJASHISHI ROAD NEAR MASTER BUTCHERY",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "CUSTOMERS IN CHAMAPEPE ROAD AND CUSTOMERS NEAR NYANGU FILLING STATION",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "TOMBWE TOBACCO PROCESSING LTD",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "GOODTIME STEEL",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "GOODTIME STEEL",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "GIRRHAD MILLING",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "FAMILY BISCUITS LTD AND ALL SURRROUNDING AREAS / MEDICAL STORES LTD",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "BATA SHOE COMPANY",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "CROP PACK LTD",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "SURROUNDING AREAS",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "ZAMIM ALONG BUYANTANSHI ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "PET PREFORM",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "SEBA FOODS LTD",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "ZAMSEED LTD",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "COMMUNICATIONS AUTHORITY AND SURROUNDING INDUSTRIES",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "NAMPACK LTD",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "BARLOWORLD",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "GLOBAL LOGISTICS AND SURROUNDING INDUSTIRES",
+    "area": "LUSAKA"
+}, {
+    "group": "A",
+    "name": "ORIENTAL QUARRY.",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CHAINDA AND PARTS OF OLD AVONDALE",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "STATE LODGE AREA",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "NEW KASAMA/OXYGEN GYM",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "PARTS OF IBEX HILL",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "ZAF TWIN PALM BASE AND SURROUNDING AREAS",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "PART OF IBEX HILL",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "DOVE COURT SCHOOL OF NURSING",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "RUSSIAN EMBASSY",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "JAPANESE EMBASSY",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CHINESE EMBASSY",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "BOTSWANA EMBASSY",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "HIGHLAND HOUSE",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "OAU COMPLEX",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "TEVETA",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "HIGH COURT",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "SUPREME COURT",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CUSTOMERS IN RHODES PARK",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CUSTOMERS NEAR ELUNDA PARK",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "POST NEWSPAPER",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "PAMODZI HOTEL AND PARTS OF FAIRVIEW",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "WORLD BANK",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "LWSC HEAD OFFICE",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "IMMIGRATION DEPARTMENT",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CHAWAMA/YORK FARM",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "PART OF LILAYI/MILLER FARMS",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "POLAR ICE",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "ZNS",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "EMBASSY MALL",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "SPAR CHAWAMA",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "SDA EYE CLINIC",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "QUALITY FEEDS",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "NORTH OF CHILANGA/ROSE BREEDERS",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "MIMOSA",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "SOUTHERN PART OF CHILANGA/LUSAKA WATER AND SEWERAGE BOOSTER PUMP",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "MOUNT MAKULU",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "SOUTHERN PART OF LINDA",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "RATSA IN LUMUMBA ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CUSTOMERS IN LUANSHYA ROAD AND LUMUMBA ROAD UPTO FAMILY 24",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CUSTOMERS IN CHANDWE MUSONDA AND NCHONCHO ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "PARTS OF VILLA ELIZABETHA",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "ZRA",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CUSTOMERS IN VILLA ELIZABETHA AND IDEAL FUNERAL HOME",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "MANDA HILL TRAFFIC LIGHTS",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "PARTS OF RHODES PARK ALONG ADDIS ABABA DRIVE",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "PARTS OF SHOWGROUNDS",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "COMESA HEAD QUARTERS",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CHAZ",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "LASIF",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "NAPSA AND CUSTOMERS IN BENBELLA ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CHIBOLYA BASIC SCHOOL",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "BANK OF ZAMBIA",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "ZANACO HEAD QUARTERS",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "SHOPRITE CAIRO ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "FINANCE BANK HEAD QUARTERS",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "STABIC BANK HEAD QUARTERS",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "IMMIGRATION DEPARTMENT",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CUSTOMERS ON THE EASTERN SIDE OF CAIRO ROAD UPTO MAIN POST OFFICE",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "UNIVERSAL CHURCH",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "FINDECO HOUSE",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "INTERCITY BUS TERMINALS",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "MUKUBA PENSION HOUSE IN DEDAN KIMATHI ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "LEFT SIDE OF KAFUE RD/UNIVERSAL CHURCH",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "DOWNTOWN MALL",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CUSTOMERS IN TOWN CENTRE ALONG CHACHA ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "PARTS OF FREEDOM WAY AND SOCIETY HOUSE",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "KAMWALA/KAMWALA SHOPPING CENTRE",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "ZAMBIA ARMY STAFF COLLEGE",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "KAMWALA SECONDARY SCHOOL",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "ST PATRICKS BASIC SCHOOL",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "MAKENI SHOPPING MALL",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "HIGER BUSES HEAD QUARTERS",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CUSTOMERS IN JOHN LAING COMPOUND",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "METROPOLITAN SCHOOL",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "KANYAMA WATER TRUST",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "KALINGALINGA",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CROWN MILLERS",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "STAR MILLING",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CHAT BREWERIES",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "LUSAKA BREAD",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CUSTOMERS NEAR MBERESHI RESTAURANT AND LWSC BOOSTER PUMP ALONG MUMBWA ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CUSTOMERS NEAR CHINESE HOTEL AND CHING GASES",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CUSTOMERS FROM NDIPO ROAD TO ZAMBIA OPEN UNIVERSITY TURNOFF AND GREEN GARDEN AREA",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "AQUASAVANNA COMPANY AND CUSTOMERS ALONG NDIPO ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "ZAMBIA FAIRY BOTTLING COMPANY",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "ZESCO MALAMBO",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "NATIONAL MILLING MALAMBO RD",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CALIFORNIAN BEVERAGES",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "KOBIL FILLING STATION",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "ZAMBIA SUGAR",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "MANDA HILL SHOPPING MALL",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "MAKENI BASIC SCHOOL AND CUSTOMERS FROM ORIENTAL TURNOFF TO AREAS NEAR MAJORU FARMS",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "MASS MEDIA AREA/NATIONAL ASSEMBLY MOTEL",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "TOYOTA",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "ERB",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "MTN MAIN SWITCH",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "TRINITY PARK",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "MULTI CHOICE ZAMBIA",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CORPORATE PARK",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "RDA",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "BASE PARK",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CHINESE",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "ALLIANCE FRANCAIS",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "LUSAKA UNIVERSITY",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "ZPPA",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "POPE SQUARE",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "FOOTBALL HOUSE",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CIVIC CENTRE",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "MINISTRY OF EDUCATION",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CENTRAL SDA",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "TRAFFIC LIGHTS JUNCTION OF INDEPENDENCE AND BURMA ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "GOVERNMENT PRINTERS",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "ZAMTEL LAMYA HOUSE",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CENTRAL POLICE",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "MINISTRY OF COMMUNITY DEVELOPMENT",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "ZRA CUSTOMS ALONG DEDAN KIMATH",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "BOMA LOCAL COURT",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "PAMODZI HOTEL",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "GRAND WESTERN HOTEL OPPOSITE ZESCO HEAD OFFICE",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "DAILY MAIL IN KABELENGA ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "MUMS CARE CLINIC",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "MINISTRY OF HEALTH IN TULETEKA ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CUSTOMERS ALONG PROVIDENT STREET IN FAIRVIEW",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CUSTOMERS IN LUZI ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "ASSOCIATED PRINTERS",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "GODFREY HOUSE OPPOSITE LEVY HOUSE",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "ARCADES",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "ODDYS MULUNGUSHI",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "MULUNGUSHI INTERNATIONAL CONFERENCE CENTRE",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "ARCACIA PARK",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "AREAS ALONG THABO MBEKI RD",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "MASS MEDIA AREA",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "PART OF KALINGALINGA",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CHRISTIAN VOICE RADIO",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "EAST PARK MALL",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CROSS ROADS MALL",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "SOUTH AFRICAN HIGH COMMISSION",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "ENGEN FILLING STATION ALONG LEOPARDS HILL ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "SAINT MARY'S SCHOOL",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "TWIN PALM SCHOOL",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "HILLTOP HOSPITAL",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "LIBALA SOUTH FROM WATERWORKS UPTO KASAMA ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "LIBALA STAGE 1 TO 4",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "LUSAKA BUSINESS TRADES COLLEGE",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "DAVID KAUNDA SCHOOL",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "NIPA BURMA ROAD CAMPUS",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "PART OF ARAKAN BARRACKS",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "KATUNGU SHOPPING CENTRE",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "WINNERS CHAPEL",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "LUSAKA PRIMARY SCHOOL",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "CUSTOMERS ON THE WESTERN SIDE OF CAIRO ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "NATIONAL MILLING CAIRO ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "FARMERS HOUSE",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "BARCLAYS BANK ON THE NORTH END",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "STANDARD CHARTERED BANK NORTH END",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "LOTTI HOUSE",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "KWACHA HOUSE",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "MINISTRY OF TOURISM",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "SOCIETY HOUSE",
+    "area": "LUSAKA"
+}, {
+    "group": "B",
+    "name": "LEVY PARK SHOPPING MALL.",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "BARLASTONE AREA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "TWIKATANE FARMS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "EDEN INSTITUTE",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "FERNGROOVE",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "KASUPE",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "MWAKA LODGE",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "SUNSHARE INDUSTRIES",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "WONDERFUL CEILING",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "MT.MERU FILLING STATION ALONG MUNGWI ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "MAJORU FARMS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "MAKENI WEST SCHOOL",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "CUSTOMERS NEAR GENERAL MIYANDA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "BONAVENTURE COLLEGE AND SURROUNDING AREAS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "CUSTOMERS BEHIND ZNS AND LAMISE",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "ZNS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "CUSTOMERS ALONG TEAGLES ROAD AND CASSANOVA STREET",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "PART OF CUSTOMERS IN BONAVENTURE AREA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "PRINCE CHARLES HOTEL",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "MR. GREY ZULU RESIDENCE AND SURROUNDING AREAS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "EUREKA PARK/JAN JAPAN",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "LAMASAT",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "NEIL FARMS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "CHALIMBANA UNIVERSITY",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "CHIEFS PALACE",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "PALABANA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "NEW KASAMA BETWEEN MIKANGO AND KYINDU RANCH",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "KYINDU RANCH",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "SOUTHERN PART OF NEW KASAMA/MIKANGO BARRACKS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "CHONGWE WEST",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "SILVER REST",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "BANI HOTEL",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "CHONGWE EAST",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "CHONGWE SOUTH &KANAKANTAPA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "MPANGO/MPELEKESE",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "Zambeef Kalundu Dairy",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "Zambeef Kachele farms",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "Sable Farms",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "Zambeef Hantley Farm",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "Harambe Farm",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "ADM farms",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "ZNS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "Tembo Farm",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "Izwi Farm",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "Mpokota Farm",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "Ndesa Hills Farm",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "Grafax Cotton",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "Ecoveg Farm",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "Zabeef Kalundu Bottom",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "Bumi Farm",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "Wady Farm",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "Old Dar farm",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "Fringila Farm",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "Kobil  Fillins station",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "Pam Zone",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "Kasanda",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "Dar Farms Kalola",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "Siachele Farm",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "west Gate Farm",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "Murundura Farm",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "Trotters butchery",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "Golden Valley",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "GART",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "Matongo Farms",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "GM farms & Surrounding Areas",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "CENA FARMS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "SOPELO CAMP",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "MUNDENGWA AREA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "MUZIMBILI RANCH AND SURROUNDING AREAS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "DOLOMITE QUARRIES",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "MUFULANDE QUARRIES",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "ZAMASTONE LTD",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "ZNS SAFARI",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "ROCKY GARDENS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "PART OF FERNGROOVE AREA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "ZAMBIA ARMY APOLLO CAMP",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "ZAF MT. EUGENE",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "ZNS BB CAMP",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "ZAMBIA HORSE",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "PART OF FERNGROOVE AREA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "BUNDE FARMS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "CHIKUPI AREA AND CUSTOMERS ALONG CHRISTIAN VOICE ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "SUNRISE FARMS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "ZAMBIA CHINA FARMS AND SURROUNDING AREAS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "MAKENI ISLAMIC SOCIETY",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "BUFFALO VILLAGE",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "CUSTOMERS ALONG MAKENI ROAD UPTO ORIENTAL TURNOFF",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "SHIBUYUNJI CBA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "NKOMBA SCHOOL",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "MUTUMBI RACHING",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "LUTHERAN AREA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "SHACHELE SCHOOL",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "NANGOMA HOSPITAL",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "GINNERY",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "LUIRI MINE",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "SENZO AREA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "SITUMBEKO AREA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "ZAF BASE MUMBWA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "NAMBALA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "KAINDU",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "KAMILAMBO",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "MPUSU",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "CHIWENA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "MUMBWA TOWN",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "AMATHEON",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "ZNS KALENDA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "KITUMBA PRISON",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "BIG CONCESSION",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "MUMBA SCHEME",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "MAIMWENE RESETTLEMENT AREA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "FAIRVIEW HOSPITAL",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "CUSTOMERS IN FAIRVIEW AND ZAMBIA RAILWAYS AREA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "EVELYN HONE",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "NIPA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "ZCAS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "LUSAKA CENTRAL POLICE",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "FAIRVIEW HOTEL",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "ZAMTEL ALONG CHILUBI ROAD AND CUSTOMERS ALONG PARIRENYATWA ROAD NEAR DHL",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "10 MILES",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "13MILES",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "22MILES",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "MUNGULE AREA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "DMI ST.EUGENE UNIVERSITY",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "KABANGWE AREA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "SHAKAS KRAAL",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "6 MILES",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "AND SURROUNDING AREAS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "ZANIMUONE TOWNSHIP",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "PRECEM AREA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "PART OF CHUNGA TOWNSHIP",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "PART OF KABANANA AND CHAZANGA TOWNSHIP",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "LANDLESS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "CHIBOMBO",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "MWACHISOPOLA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "CHIYUNI",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "CHITANDA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "KEEMBE",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "KASUKWE",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "MALAMBANYA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "WANGWA FARMS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "JUDGE NGOMA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "MTN TOWER",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "PROTEA HOTEL CHISAMBA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "ZAMBIA RAILWAYS AND SURROUNDING AREAS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "WESTERN PARTS OF SHIMABALA/MAPEPE AGREGATE QUARRY",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "BASSET FARMS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "SUNRISE ESTATE FARMS ALONG MUMBWA ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "OKAPY FARMS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "KAYPE FARMS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "SUNLIGHT FARMS AND CUSTOMERS ALONG MUMBWA ROAD BETWEEN MAKENI POLICE (VILLA LUCIA) CHECK POINT",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "KALUNDU AREA",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "MWEMBESHI SATELITE STATION",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "MWEMBESHI OPEN PRISON",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "SABLE FARMS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "PAROGATE GINNERY",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "MWEMBESHI MAXIMUM PRISON",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "HATLEY FARMS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "WESTHOOD POLICE STATION",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "CUSTOMERS IN MWEMBESHI BETWEEN WESTHOOD POLICE AND MWEMBESHI RIVER",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "EVERGREEN FARMS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "MAYFLOWER FARMS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "KASHIMA FARMS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "SOBI FARMS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "MERYDALE FARMS",
+    "area": "LUSAKA"
+}, {
+    "group": "C",
+    "name": "ZAMBIA CHINA FARMS AND CUSTOMERS BETWEEN SHORTHORN AND KACHETA UPTO NAMPUNDWE ROAD.",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "BAULENI",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "CHAWAMA CLINIC",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "CHAWAMA AREA",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "PARTS OF KAUNDA SQUARE STAGE 1",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "KAUNDA SQUARE STAGE 2",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "PART OF CHAMBA VALLEY",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "PART OF MTENDERE EAST",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "CHELSTONE",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "CHELSTONE POLICE CAMP",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "PART OF AVONDALE",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "RHODES PARK SCHOOL",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "CUSTOMERS ALONG SIBWEN ROAD UPTO MACHINCHI ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "CHITULI AND CHITEMENE ROAD IN NORTHMEAD AREA",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "HABITAT FOR HUMANITY TOWNSHIP",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "FORESTLY COMPLEX TOWNSHIP",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "OLYMPIC YOUTH DEVELOPMENT CENTRE",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "MTENDERE",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "KABULONGA EXTENSION",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "HELLEN KAUNDA",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "KABULONGA (LEFT SIDE OF BISHOPS FROM THE TRAFFIC LIGHTS)/MELISA",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "TOTAL FILLING STATION",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "KABULONGA (RIGHT SIDE OF BISHOPS RD FROM THE TRAFFIC LIGHTS) PUMA FILLING STATION",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "PETRODA KALINGALINGA",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "SUNNINGDALE UNIVERSITY",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "KABULONGA BOYS AND GIRLS",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "CUSTOMERS IN MAKENI VILLA",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "CUSTOMERS NEAR TWASHUKA BASIC SCHOOL AND SURROUNDING AREAS",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "CUSTOMERS NEAR GARDEN HOUSE AREA",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "CHISOMO HOSPITAL",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "ZAMBIAN OPEN UNIVERSITY",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "SHALOM CLINIC AND CUSTOMERS NEAR MAKENI VILLA AND KANYAMA AREA",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "MPONDAMALI SCHOOL",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "CUSTOMERS IN KANYAMA FROM GARDEN HOUSE MARKET TO MUTANDA BANTU AND MBASELA MARKET",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "MAGUAVA WATCHTOWER AREA",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "ZAMLEATHER LTD",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "GEORGE TOWNSHIP",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "PART OF LILANDA ESTATES",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "PETRODA LILANDA",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "LILANDA BAKERY",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "PART OF MATERO TOWNSHIP NEAR KACHINKA BAR",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "SHADRECK AREA AND SURROUNDING AREAS",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "FRESH MARK LTD",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "BUSEKO MARKET",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "EMMASDALE AREA",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "EMMASDALE SDA CHURCH",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "BREAD OF LIFE CHURCH",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "ATLANTIC BAKERY",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "OLYMPIA",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "ROMA KASANGULA ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "KABANANA TOWNSHIP",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "MATERO MARKET",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "CHINGWERE CLINIC",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "CHIPATA CLINIC & TOWNSHIP",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "SPAR SUPERMARKET GREAT NORTH RD",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "DMI SAINT EUGENE UNIVERSITY IN WOODLANDS",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "ZNBC BAULENI TRANSMITTERS",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "WOODLANDS SHOPPING MALL",
+    "area": "LUSAKA"
+}, {
+    "group": "D",
+    "name": "WOODLANDS ZAMTEL EXCHANGE AND SURROUNDING AREAS.",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "ZINGALUME TOWNSHIP",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "CUSTOMERS ALONG TWIKATANE ROAD AND SURROUNDING AREAS",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "NEW KASAMA/KEPT COOL REFRIGIRATION",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "PART OF SALAMA PARK",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "MTENDERE EAST",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "PART OF AVONDALE",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "KAMANGA",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "PART OF CHELSTONE",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "PART OF CHAMBA VALLEY",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "CHELSTONE",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "AVONDALE",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "GARDENIA ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "HYBRID",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "PART OF CHAMBAVALLEY",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "PART OF KAMANGA",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "LUSAKA WATER AND SEWERAGE HEAD QUARTERS ALONG KATEMO ROAD AND CUSTOMERS STRETCHING FROM CHAOLI TO KATEMO ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "LONGACRES (LUBU",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "KABANGA",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "SAISSE",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "NALUBUTO",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "ADDIS ABABA",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "ENOCK KAVU ROADS)",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "MINISTRY OF HEALTH PROVINCIAL OFFICE",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "LWSC BOREHOLES",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "LONGACRES(LUKASU",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "NANGWENYA",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "MTEDZA",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "ADDIS ABABA ROADS)/MINISTRY OF HEALTH PROVINCIAL OFFICE",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "LWSC BOREHOLES",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "PART OF IBEX HILL",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "KALIKILIKI",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "SHOPRITE WHOLESALE",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "CASTLE MALL",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "SOUTHERN CROSS MOTORS",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "TERRA STONE FUNERAL PALOUR",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "MISISIS",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "KUKU/AUTOWORLD",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "CHIBOLYA COMPOUND",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "ZAMBIA BRANCH OF JEHOVAH'S WITNESSES HEAD QUARTERS",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "CUSTOMERS NEAR KAVINDELE FARM UPTO SATWANT",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "PART OF GARDEN TOWNSHIP",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "CUSTOMERS ALONG PENDELA ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "SURROUNDING AREAS",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "CHUNGA TOWNSHIP AND SURROUNDING AREAS",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "LILANDA TOWNSHIP AND SURROUNDING AREAS",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "ROMA  ZAMBEZI ROAD  AND SURROUNDING AREAS",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "PART OF NGOMBE ALONG ZAMBEZI RD",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "JESMONDINE",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "PART OF KAUNDA SQUARE STAGE 1",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "PART OF CHAMBA VALLEY",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "KALUNDU",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "PART OF ROMA KASANGULA RD AND SURROUNDING AREAS",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "KAMWALA SOUTH BASIC SCHOOL AND SURROUNDING AREAS",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "KAMWLA SOUTH",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "LIBALA SOUTH",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "KABWATA",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "CHILENJE/SPAR BAKERY",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "WOODLANDS EXTENSION",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "NUYMBA YANGA",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "WOODLANDS(LAKE ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "E",
+    "name": "MUTENDE ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "OBAMA",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "MADIDO AND SURROUNDING AREAS",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "CHELSTONE GREEN",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "CHELSTONE PALM DRIVE",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "RESEARCH INSTITUTE AND SURROUNDING AREAS ALONG AIRPORT ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "IBEX MEANWOOD",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "MANZI",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "UNITED QUARRIES AND SURROUNDING ARES",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "WATERFALLS AREA AND AREAS ALONG MOONO ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "MEANWOOD NDEKE",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "NEW KASAMA/FRUIT AND VEG",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "PILATUS",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "WANANGWA FARMS",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "MFEZ",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "CORPERATIVE COLLEGE",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "IFUKI BLOCK MAKERS",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "NEW KASAMA",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "CHALALA ROCKFIELD/EASTERN QUARRY",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "ROCK FIELD AND AREAS ALONG SHANTUMBU ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "PARTS OF CHALALA",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "PARTS OF LIBALA SOUTH BEYOND TONKYO ROAD",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "AREAS NEAR WATERWORKS",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "LILAYI",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "CHALALA",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "APEX MEDICAL UNIVERSITY AND SURROUNDING AREAS",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "MAHOPO",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "SHANTUMBU",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "PART OF LILAYI/AVIC INTERNATIONAL QUARRY",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "CUSTOMERS NEAR CHINIKA HIGH SCHOOL",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "KANYAMA CLINIC",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "CUSTOMERS NEAR KANYAMA CATHOLIC CHURCH",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "GARDEN TOWNSHIP",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "ZAMBIA ARMY INFANTLY BRIGADE/ZAMIM",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "PART OF EMMASDALE NEAR GREAT NORTH RD & PETRODA FILLING STATION",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "KABWATA",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "SIKANZE POLICE CAMP/KAMWALA MARKET",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "GARDEN TOWNSHIP",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "GARDEN CHILULU AREA",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "ZESCO CHAISA AND SURROUNDING AREAS",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "ZESCO MATERO",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "SHOPRITE MATERO",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "MELISA MATERO",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "MATERO POLICE CAMP AND SURROUNDING AREAS",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "CHRISTIAN VOICE",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "SABLE CUSTOMERS NEAR NAMPUNDWE MARKET",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "MEANWOOD KWAMWENA",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "SOUTHERN PART OF SHIMABALA",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "PART OF KALUNDU",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "HANDSWORTH",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "NGOMBE",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "JESMONDINE",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "CHUDLEIGH",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "MARSHLANDS",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "LIBALA SOUTH/LUSAKA WATER AND SEWERAGE PUMP STATION",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "SPAR CHILENJE",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "NEW CHILENJE",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "CHILENJE/INTERLAND",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "BARCLAYS CHILENJE",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "FNB CHILENJE",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "CHILENJE MARKET",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "ZAMBEEF CHILENJE",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "ROBERTS FISHERIES",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "WOODLANDS EXTENSION",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "NYUMBA YANGA",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "CHILENJE/CHILENJE CLINIC",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "SHOPRITE CHILENJE",
+    "area": "LUSAKA"
+}, {
+    "group": "F",
+    "name": "CHILENJE POILCE CAMP.",
+    "area": "LUSAKA"
+}]
