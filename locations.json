@@ -2758,4 +2758,186 @@
     "group": "E",
     "name": "KANINI TOWNSHIP AND PART OF HILLCREST",
     "area": "NDOLA"
-}]
+},
+ {
+    "group": "A",
+    "name": "MIKOMFWA #2 (KALALA AREA",
+    "area": "LUANSHYA"
+}, {
+    "group": "A",
+    "name": "LEISURE",
+    "area": "LUANSHYA"
+}, {
+    "group": "A",
+    "name": "D-COMPOUND & SURROUNDING AREAS)",
+    "area": "LUANSHYA"
+}, {
+    "group": "A",
+    "name": "ROAN HOSPITAL FEEDER(2BB) (5 6 8 9 & 10) AND  MPATAMATU # 2 i.e. SECTION (24 25 26 27 & KAWAMA)",
+    "area": "LUANSHYA"
+}, {
+    "group": "A",
+    "name": "RING #1 FDR i.e. PART OF MUNICIPAL AREA",
+    "area": "LUANSHYA"
+}, {
+    "group": "A",
+    "name": "KAOMA CRST & SECOND CLASS AREA NDEKE AND SURRONDING AREAS",
+    "area": "LUANSHYA"
+}, {
+    "group": "A",
+    "name": "KAMIRENDA",
+    "area": "LUANSHYA"
+}, {
+    "group": "A",
+    "name": "CHITWE KAMIRENDA",
+    "area": "LUANSHYA"
+}, {
+    "group": "A",
+    "name": "GHANA CIRCLE",
+    "area": "LUANSHYA"
+}, {
+    "group": "A",
+    "name": "MAPOSA AREA",
+    "area": "LUANSHYA"
+}, {
+    "group": "A",
+    "name": "BALUBA",
+    "area": "LUANSHYA"
+}, {
+    "group": "A",
+    "name": "GOLDENLAY FARM",
+    "area": "LUANSHYA"
+}, {
+    "group": "A",
+    "name": "GRIGOLAKIS FARM",
+    "area": "LUANSHYA"
+}, {
+    "group": "A",
+    "name": "MSICHILI FARM",
+    "area": "LUANSHYA"
+}, {
+    "group": "A",
+    "name": "AVIC INTERNATIONAL",
+    "area": "LUANSHYA"
+}, {
+    "group": "A",
+    "name": "FISENGE AREA",
+    "area": "LUANSHYA"
+}, {
+    "group": "A",
+    "name": "ZWANGENDABA AND JACOPE UP TO WELCOME TO LUANSHYA.",
+    "area": "LUANSHYA"
+}, {
+    "group": "B",
+    "name": "ROAN TOWNSHIP FEEDER- SECTION (1 2 3 4 & 6) MPATAMATU # 1 i.e. SECTION (21 22 23 & 24)",
+    "area": "LUANSHYA"
+}, {
+    "group": "B",
+    "name": "4TH STREET FEEDER (NEWTOWN)",
+    "area": "LUANSHYA"
+}, {
+    "group": "B",
+    "name": "B-Ave FDR i.e. MINE AREA (ZAONE",
+    "area": "LUANSHYA"
+}, {
+    "group": "B",
+    "name": "PART OF CHESWA",
+    "area": "LUANSHYA"
+}, {
+    "group": "B",
+    "name": "INDP",
+    "area": "LUANSHYA"
+}, {
+    "group": "B",
+    "name": "YALLOW & BUNTUNGWA",
+    "area": "LUANSHYA"
+}, {
+    "group": "B",
+    "name": "FUNYAMA",
+    "area": "LUANSHYA"
+}, {
+    "group": "B",
+    "name": "RIVERSIDE",
+    "area": "LUANSHYA"
+}, {
+    "group": "B",
+    "name": "DATURA & E5)",
+    "area": "LUANSHYA"
+}, {
+    "group": "B",
+    "name": "PART OF KAMIRENDA",
+    "area": "LUANSHYA"
+}, {
+    "group": "B",
+    "name": "MIKOMFWA # 1 FDR i.e. PART OF MIKOMFWA (BUSEKO",
+    "area": "LUANSHYA"
+}, {
+    "group": "B",
+    "name": "POLICE CAMP",
+    "area": "LUANSHYA"
+}, {
+    "group": "B",
+    "name": "MAIN MARKET AND OTHER SURROUNDING AREAS)",
+    "area": "LUANSHYA"
+}, {
+    "group": "C",
+    "name": "TOWN CENTRE (PNP",
+    "area": "LUANSHYA"
+}, {
+    "group": "C",
+    "name": "ROAN MALL",
+    "area": "LUANSHYA"
+}, {
+    "group": "C",
+    "name": "SUB 46",
+    "area": "LUANSHYA"
+}, {
+    "group": "C",
+    "name": "SUB.12",
+    "area": "LUANSHYA"
+}, {
+    "group": "C",
+    "name": "SUB.54",
+    "area": "LUANSHYA"
+}, {
+    "group": "C",
+    "name": "SUB.18)",
+    "area": "LUANSHYA"
+}, {
+    "group": "C",
+    "name": "CHATEPA (SUB 17 & SUB.36)",
+    "area": "LUANSHYA"
+}, {
+    "group": "C",
+    "name": "INDUSTRIAL AREA",
+    "area": "LUANSHYA"
+}, {
+    "group": "C",
+    "name": "VOLCANO",
+    "area": "LUANSHYA"
+}, {
+    "group": "C",
+    "name": "ZAMEFA & MATALLOY",
+    "area": "LUANSHYA"
+}, {
+    "group": "C",
+    "name": "MASAITI",
+    "area": "LUANSHYA"
+}, {
+    "group": "C",
+    "name": "IBENGA",
+    "area": "LUANSHYA"
+}, {
+    "group": "C",
+    "name": "KAMBILOMBILO",
+    "area": "LUANSHYA"
+}, {
+    "group": "C",
+    "name": "KAFULAFUTA",
+    "area": "LUANSHYA"
+}, {
+    "group": "C",
+    "name": "PART OF MIKOMFWA (MUTUBILA/MWASHANI)",
+    "area": "LUANSHYA"
+}
+]
