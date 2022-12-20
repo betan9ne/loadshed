@@ -4130,7 +4130,7 @@
     "area": "NORTH WESTERN PROVINCE"
 }, {
     "group": "A",
-    "name": "weighbridge",
+    "name": "weigh bridge",
     "area": "NORTH WESTERN PROVINCE"
 }, {
     "group": "A",
@@ -4154,7 +4154,7 @@
     "area": "NORTH WESTERN PROVINCE"
 }, {
     "group": "A",
-    "name": "medicalcollege",
+    "name": "medical college",
     "area": "NORTH WESTERN PROVINCE"
 }, {
     "group": "A",
@@ -4274,7 +4274,7 @@
     "area": "NORTH WESTERN PROVINCE"
 }, {
     "group": "D",
-    "name": "and surrounding areasmessengers",
+    "name": "messengers",
     "area": "NORTH WESTERN PROVINCE"
 }, {
     "group": "D",
@@ -4287,10 +4287,6 @@
 }, {
     "group": "D",
     "name": "highland",
-    "area": "NORTH WESTERN PROVINCE"
-}, {
-    "group": "D",
-    "name": "and surrounding areas",
     "area": "NORTH WESTERN PROVINCE"
 }
 ]
