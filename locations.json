@@ -1,5 +1,373 @@
 [{
     "group": "A",
+    "name": "Draudan",
+    "area": "MKUSHI"
+}, {
+    "group": "A",
+    "name": "Papagoeur",
+    "area": "MKUSHI"
+}, {
+    "group": "A",
+    "name": "Mansansa",
+    "area": "MKUSHI"
+}, {
+    "group": "A",
+    "name": "kurima",
+    "area": "MKUSHI"
+}, {
+    "group": "A",
+    "name": "Bateleur",
+    "area": "MKUSHI"
+}, {
+    "group": "A",
+    "name": "touchwood",
+    "area": "MKUSHI"
+}, {
+    "group": "A",
+    "name": "New touchwood",
+    "area": "MKUSHI"
+}, {
+    "group": "A",
+    "name": "Shigu Kangero",
+    "area": "MKUSHI"
+}, {
+    "group": "A",
+    "name": "Seedco",
+    "area": "MKUSHI"
+}, {
+    "group": "A",
+    "name": "Carenest",
+    "area": "MKUSHI"
+}, {
+    "group": "B",
+    "name": "Farm block",
+    "area": "MKUSHI"
+}, {
+    "group": "B",
+    "name": "Soli",
+    "area": "MKUSHI"
+}, {
+    "group": "B",
+    "name": "Fiwila",
+    "area": "MKUSHI"
+}, {
+    "group": "B",
+    "name": "Mkushi koffee",
+    "area": "MKUSHI"
+}, {
+    "group": "B",
+    "name": "Momboshi school",
+    "area": "MKUSHI"
+}, {
+    "group": "C",
+    "name": "Chalata",
+    "area": "MKUSHI"
+}, {
+    "group": "C",
+    "name": "Dabala",
+    "area": "MKUSHI"
+}, {
+    "group": "C",
+    "name": "Nkolonga",
+    "area": "MKUSHI"
+}, {
+    "group": "C",
+    "name": "GoodRock",
+    "area": "MKUSHI"
+}, {
+    "group": "D",
+    "name": "Mwasa chawa",
+    "area": "MKUSHI"
+}, {
+    "group": "D",
+    "name": "Agrivision",
+    "area": "MKUSHI"
+}, {
+    "group": "D",
+    "name": "Friston",
+    "area": "MKUSHI"
+}, {
+    "group": "D",
+    "name": "Mkushi",
+    "area": "MKUSHI"
+}, {
+    "group": "D",
+    "name": "Skinner",
+    "area": "MKUSHI"
+}, {
+    "group": "D",
+    "name": "Longum",
+    "area": "MKUSHI"
+}, {
+    "group": "D",
+    "name": "Fortwood",
+    "area": "MKUSHI"
+}, {
+    "group": "D",
+    "name": "kurima",
+    "area": "MKUSHI"
+}, {
+    "group": "D",
+    "name": "francis",
+    "area": "MKUSHI"
+}, {
+    "group": "D",
+    "name": "j Street",
+    "area": "MKUSHI"
+}, {
+    "group": "D",
+    "name": "Chunga Cameo",
+    "area": "MKUSHI"
+}, {
+    "group": "D",
+    "name": "Masebe",
+    "area": "MKUSHI"
+}, {
+    "group": "E",
+    "name": "Chitina",
+    "area": "MKUSHI"
+}, {
+    "group": "E",
+    "name": "Kasokota",
+    "area": "MKUSHI"
+}, {
+    "group": "E",
+    "name": "farmers s/s",
+    "area": "MKUSHI"
+}, {
+    "group": "E",
+    "name": "Calyn estates",
+    "area": "MKUSHI"
+}, {
+    "group": "E",
+    "name": "Zingi",
+    "area": "MKUSHI"
+}, {
+    "group": "E",
+    "name": "Nsulu",
+    "area": "MKUSHI"
+}, {
+    "group": "E",
+    "name": "shasha",
+    "area": "MKUSHI"
+}, {
+    "group": "E",
+    "name": "Highcost",
+    "area": "MKUSHI"
+}, {
+    "group": "E",
+    "name": "FTC",
+    "area": "MKUSHI"
+}, {
+    "group": "A",
+    "name": "Copper mine",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "A",
+    "name": "Huasheng",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "C",
+    "name": "Mpula",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "C",
+    "name": "Brian Banda",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "C",
+    "name": "Longmead",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "C",
+    "name": "Oubos",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "C",
+    "name": "Lubuto",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "C",
+    "name": "PeterSharma",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "C",
+    "name": "Cameo Estate",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "C",
+    "name": "Chimsoro Chipilipili",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "C",
+    "name": "Steward Globe",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "C",
+    "name": "ChimsoroKusanga",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "D",
+    "name": "Kapiri town",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "D",
+    "name": "Lubuto",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "D",
+    "name": "Kawama",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "D",
+    "name": "Tazara",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "D",
+    "name": "Vixers & Alliance one farms",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "D",
+    "name": "Kakulu",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "D",
+    "name": "Riverside",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "D",
+    "name": "Material",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "D",
+    "name": "East Park",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "D",
+    "name": "Police Camp",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "E",
+    "name": "Kapiri T-Off",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "E",
+    "name": "ZRA Scanner",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "E",
+    "name": "Old & New Weigh Bridge",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "E",
+    "name": "Fubera",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "E",
+    "name": "Riverside",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "E",
+    "name": "Matilyo",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "E",
+    "name": "Part of Town Centre",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "E",
+    "name": "Nkumbi College",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "E",
+    "name": "Nkumbi Area",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "E",
+    "name": "Dansea Farms",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "E",
+    "name": "Cameo on Nkumbi",
+    "area": "KAPIRI MPOSHI"
+}, {
+    "group": "A",
+    "name": "SAFAL",
+    "area": "SERENJE"
+}, {
+    "group": "A",
+    "name": "Chimetal Ferro Alloys",
+    "area": "SERENJE"
+}, {
+    "group": "A",
+    "name": "Omax",
+    "area": "SERENJE"
+}, {
+    "group": "A",
+    "name": "Serenje Ferro Alloys",
+    "area": "SERENJE"
+}, {
+    "group": "A",
+    "name": "Champion",
+    "area": "SERENJE"
+}, {
+    "group": "A",
+    "name": "African Ferro Alloys",
+    "area": "SERENJE"
+}, {
+    "group": "A",
+    "name": "United Ferro Alloys",
+    "area": "SERENJE"
+}, {
+    "group": "A",
+    "name": "PLR Projects",
+    "area": "SERENJE"
+}, {
+    "group": "A",
+    "name": "Jaswin",
+    "area": "SERENJE"
+}, {
+    "group": "A",
+    "name": "Amar Ferro",
+    "area": "SERENJE"
+}, {
+    "group": "A",
+    "name": "Max Global",
+    "area": "SERENJE"
+}, {
+    "group": "C",
+    "name": "Chitambo",
+    "area": "SERENJE"
+}, {
+    "group": "D",
+    "name": "Nansanga Farming Block",
+    "area": "SERENJE"
+}, {
+    "group": "D",
+    "name": "Chibale",
+    "area": "SERENJE"
+}, {
+    "group": "D",
+    "name": "Mulilima",
+    "area": "SERENJE"
+}, {
+    "group": "D",
+    "name": "Chimupati",
+    "area": "SERENJE"
+}, {
+    "group": "D",
+    "name": "Part of Tazara",
+    "area": "SERENJE"
+}, {
+    "group": "D",
+    "name": "Mulembo",
+    "area": "SERENJE"
+}, {
+    "group": "D",
+    "name": "Silverland Farms & Surrounding Areas",
+    "area": "SERENJE"
+},{
+    "group": "A",
     "name": "Ferro Alloy",
     "area": "KABWE"
 }, {
