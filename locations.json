@@ -5004,5 +5004,265 @@
     "group": "B",
     "name": "KAPUTA",
     "area": "LUAPULA PROVINCE"
+},{
+    "group": "A",
+    "name": "MPULUNGU TOWN CENTRE",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "A",
+    "name": "MPULUNGU LOCATION",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "A",
+    "name": "MPULUNGU INDUSTRIAL AREA",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "A",
+    "name": "LUWINGU TOWN",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "A",
+    "name": "IPUSUKILO",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "A",
+    "name": "KAPUMO",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "A",
+    "name": "MUKANGA",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "A",
+    "name": "KAWIKISHA",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "A",
+    "name": "MPOROKOSO LOCATION",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "A",
+    "name": "CHISHAMWAMBA",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "A",
+    "name": "CHANDAMALI",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "LUKUPA",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "MUKULUMPE",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "CENTRAL TOWN",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "KASAMA VILLAGE",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "KAMBOTOLE",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "MULENGA HILLS",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "MUNGWI",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "MALOLE",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "CHITIMUKULU",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "CHIKUMANINO",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "MISAMFU",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "TAZARA AREA",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "SOFT KATONGO",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "CHISHIPULA",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "KASAMA COLLEGE OF EDUCATION",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "MUSA",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "NKOLEMFUMU AREA",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "CHISANGA",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "AMINIMILIMA",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "LUKASHYA",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "TAZARA AREA",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "SOFT KATONGO",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "CHISHIPULA",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "KASAMA COLLEGE OF EDUCATION",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "MUSA",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "NKOLEMFUMU AREA",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "CHISANGA",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "AMINI",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "MBALA TOWN CENTRE",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "MBALA LOCATION",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "OLAM FARM",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "NEW MBULU",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "KAMPOMPO",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "CHILA VIEW",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "LITTLE POLAND",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "B",
+    "name": "PART OF MEDIUM DENSITY RESIDENTIAL",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "C",
+    "name": "NEW TOWN",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "C",
+    "name": "LOCATION",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "C",
+    "name": "CHIBA",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "C",
+    "name": "BWEBE",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "C",
+    "name": "KASEMBO",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "C",
+    "name": "BROWN",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "C",
+    "name": "LUA LUO",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "C",
+    "name": "NSUMBU",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "C",
+    "name": "MUPATA",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "C",
+    "name": "MUZABWELA",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "C",
+    "name": "KAIZYA",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "C",
+    "name": "MPULUNGU HOSPITAL",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "C",
+    "name": "MUSENDE",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "C",
+    "name": "IPUSUKILO",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "C",
+    "name": "MBALA AIRPORT",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "C",
+    "name": "MBALA FTC. LAURENT CHITA",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "C",
+    "name": "NJEKE",
+    "area": "NORTHERN PROVINCE"
+}, {
+    "group": "C",
+    "name": "MAKOLONGO AREA",
+    "area": "NORTHERN PROVINCE"
 }
 ]
