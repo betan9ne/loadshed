@@ -4288,5 +4288,145 @@
     "group": "D",
     "name": "highland",
     "area": "NORTH WESTERN PROVINCE"
+},{
+    "group": "A",
+    "name": "Parts of kafironda farms",
+    "area": "MUFULIRA"
+}, {
+    "group": "A",
+    "name": "lukoshi",
+    "area": "MUFULIRA"
+}, {
+    "group": "A",
+    "name": "musakashi",
+    "area": "MUFULIRA"
+}, {
+    "group": "A",
+    "name": "triple s and surrounding areas",
+    "area": "MUFULIRA"
+}, {
+    "group": "A",
+    "name": "lakeview farm",
+    "area": "MUFULIRA"
+}, {
+    "group": "A",
+    "name": "salamano",
+    "area": "MUFULIRA"
+}, {
+    "group": "A",
+    "name": "bible college",
+    "area": "MUFULIRA"
+}, {
+    "group": "B",
+    "name": "Kawama west",
+    "area": "MUFULIRA"
+}, {
+    "group": "B",
+    "name": "eaglet",
+    "area": "MUFULIRA"
+}, {
+    "group": "B",
+    "name": "kalukanya",
+    "area": "MUFULIRA"
+}, {
+    "group": "B",
+    "name": "suburbs and kamuchanga",
+    "area": "MUFULIRA"
+}, {
+    "group": "B",
+    "name": "kansuswa township",
+    "area": "MUFULIRA"
+}, {
+    "group": "B",
+    "name": "parts of mine highcost and fairview",
+    "area": "MUFULIRA"
+}, {
+    "group": "C",
+    "name": "Parts of mine highcost",
+    "area": "MUFULIRA"
+}, {
+    "group": "C",
+    "name": "kantanshi sections 7",
+    "area": "MUFULIRA"
+}, {
+    "group": "C",
+    "name": "9 and kantanshi police",
+    "area": "MUFULIRA"
+}, {
+    "group": "C",
+    "name": "kantanshi section 6 and parts of section 8",
+    "area": "MUFULIRA"
+}, {
+    "group": "C",
+    "name": "eastlea",
+    "area": "MUFULIRA"
+}, {
+    "group": "D",
+    "name": "Murundu",
+    "area": "MUFULIRA"
+}, {
+    "group": "D",
+    "name": "mokambo",
+    "area": "MUFULIRA"
+}, {
+    "group": "D",
+    "name": "twalubuka",
+    "area": "MUFULIRA"
+}, {
+    "group": "D",
+    "name": "mutundu",
+    "area": "MUFULIRA"
+}, {
+    "group": "D",
+    "name": "orasho and drc boarder",
+    "area": "MUFULIRA"
+}, {
+    "group": "D",
+    "name": "butondo",
+    "area": "MUFULIRA"
+}, {
+    "group": "D",
+    "name": "zimba and luasobe",
+    "area": "MUFULIRA"
+}, {
+    "group": "E",
+    "name": "Kankoyo township",
+    "area": "MUFULIRA"
+}, {
+    "group": "E",
+    "name": "kantanshi sections 1 to 5 & 8 and orchard",
+    "area": "MUFULIRA"
+}, {
+    "group": "E",
+    "name": "corner bar and mutundu",
+    "area": "MUFULIRA"
+}, {
+    "group": "F",
+    "name": "Parts of mine highcost and fairview",
+    "area": "MUFULIRA"
+}, {
+    "group": "F",
+    "name": "francis mukuka",
+    "area": "MUFULIRA"
+}, {
+    "group": "F",
+    "name": "chibolya",
+    "area": "MUFULIRA"
+}, {
+    "group": "F",
+    "name": "kawama east",
+    "area": "MUFULIRA"
+}, {
+    "group": "F",
+    "name": "chibote extension and parts of kamuchanga",
+    "area": "MUFULIRA"
+}, {
+    "group": "F",
+    "name": "parts of fairview",
+    "area": "MUFULIRA"
+}, {
+    "group": "F",
+    "name": "taung up barracks",
+    "area": "MUFULIRA"
 }
 ]
