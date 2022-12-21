@@ -1,5 +1,229 @@
 [{
     "group": "A",
+    "name": "Ferro Alloy",
+    "area": "KABWE"
+}, {
+    "group": "A",
+    "name": "Datong",
+    "area": "KABWE"
+}, {
+    "group": "A",
+    "name": "Tongy",
+    "area": "KABWE"
+}, {
+    "group": "A",
+    "name": "Barmac San He",
+    "area": "KABWE"
+}, {
+    "group": "B",
+    "name": "Kangomba",
+    "area": "KABWE"
+}, {
+    "group": "B",
+    "name": "Kasavasa",
+    "area": "KABWE"
+}, {
+    "group": "B",
+    "name": "Prospect",
+    "area": "KABWE"
+}, {
+    "group": "B",
+    "name": "Mutwe Wansofu",
+    "area": "KABWE"
+}, {
+    "group": "B",
+    "name": "Naambe",
+    "area": "KABWE"
+}, {
+    "group": "B",
+    "name": "Makombe",
+    "area": "KABWE"
+}, {
+    "group": "C",
+    "name": "Bwacha",
+    "area": "KABWE"
+}, {
+    "group": "C",
+    "name": "Ngungu",
+    "area": "KABWE"
+}, {
+    "group": "C",
+    "name": "Chimanimani",
+    "area": "KABWE"
+}, {
+    "group": "C",
+    "name": "Orotala Mwalala",
+    "area": "KABWE"
+}, {
+    "group": "C",
+    "name": "Nagoli & Shamabanse",
+    "area": "KABWE"
+}, {
+    "group": "C",
+    "name": "Mukonchi",
+    "area": "KABWE"
+}, {
+    "group": "C",
+    "name": "Likumbi & Brunelli Water works",
+    "area": "KABWE"
+}, {
+    "group": "C",
+    "name": "Finesteel",
+    "area": "KABWE"
+}, {
+    "group": "C",
+    "name": "Hilbrow",
+    "area": "KABWE"
+}, {
+    "group": "C",
+    "name": "Kasanda mine",
+    "area": "KABWE"
+}, {
+    "group": "C",
+    "name": "Makululu & M-Section",
+    "area": "KABWE"
+}, {
+    "group": "C",
+    "name": "Lunsefwa offices",
+    "area": "KABWE"
+}, {
+    "group": "C",
+    "name": "Dallas",
+    "area": "KABWE"
+}, {
+    "group": "C",
+    "name": "Kohima & Chindwin Barracks",
+    "area": "KABWE"
+}, {
+    "group": "C",
+    "name": "Natuseko",
+    "area": "KABWE"
+}, {
+    "group": "C",
+    "name": "Mukonchi",
+    "area": "KABWE"
+}, {
+    "group": "C",
+    "name": "Likumbi",
+    "area": "KABWE"
+}, {
+    "group": "C",
+    "name": "Kakwalesa",
+    "area": "KABWE"
+}, {
+    "group": "D",
+    "name": "Moyo Apartments",
+    "area": "KABWE"
+}, {
+    "group": "D",
+    "name": "Shamabanse",
+    "area": "KABWE"
+}, {
+    "group": "D",
+    "name": "Makwati",
+    "area": "KABWE"
+}, {
+    "group": "D",
+    "name": "Kabwe Worries Complex",
+    "area": "KABWE"
+}, {
+    "group": "D",
+    "name": "Ndola rd farms upto Luanshimba",
+    "area": "KABWE"
+}, {
+    "group": "D",
+    "name": "Mulungushi University",
+    "area": "KABWE"
+}, {
+    "group": "D",
+    "name": "Industrial Area",
+    "area": "KABWE"
+}, {
+    "group": "D",
+    "name": "Luangwa Extension",
+    "area": "KABWE"
+}, {
+    "group": "D",
+    "name": "Kawama",
+    "area": "KABWE"
+}, {
+    "group": "D",
+    "name": "Mukobeko township",
+    "area": "KABWE"
+}, {
+    "group": "D",
+    "name": "Mukobeko Maximum Prisons",
+    "area": "KABWE"
+}, {
+    "group": "D",
+    "name": "Mpunde Area & Mukobeko Farms",
+    "area": "KABWE"
+}, {
+    "group": "D",
+    "name": "Lukanga",
+    "area": "KABWE"
+}, {
+    "group": "D",
+    "name": "Pollen",
+    "area": "KABWE"
+}, {
+    "group": "D",
+    "name": "Kalonga",
+    "area": "KABWE"
+}, {
+    "group": "D",
+    "name": "Nkhruma Townships",
+    "area": "KABWE"
+}, {
+    "group": "D",
+    "name": "Dallas",
+    "area": "KABWE"
+}, {
+    "group": "E",
+    "name": "Katondo",
+    "area": "KABWE"
+}, {
+    "group": "E",
+    "name": "Part of Chowa and Jant Company",
+    "area": "KABWE"
+}, {
+    "group": "E",
+    "name": "Kasapo Farm",
+    "area": "KABWE"
+}, {
+    "group": "E",
+    "name": "Zambia Railways (Chirwa)",
+    "area": "KABWE"
+}, {
+    "group": "E",
+    "name": "Zambia Police Central Division",
+    "area": "KABWE"
+}, {
+    "group": "E",
+    "name": "HighRidge",
+    "area": "KABWE"
+}, {
+    "group": "E",
+    "name": "Town Shoprite",
+    "area": "KABWE"
+}, {
+    "group": "E",
+    "name": "Chitanda",
+    "area": "KABWE"
+}, {
+    "group": "E",
+    "name": "Tuskers and Nkhruma University",
+    "area": "KABWE"
+}, {
+    "group": "E",
+    "name": "Mulungushi University Town campus",
+    "area": "KABWE"
+}, {
+    "group": "E",
+    "name": "Green Mkt Zambia Railways",
+    "area": "KABWE"
+},{
+    "group": "A",
     "name": "VARUN BEVERAGES",
     "area": "LUSAKA"
 }, {
