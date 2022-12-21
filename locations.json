@@ -5264,5 +5264,457 @@
     "group": "C",
     "name": "MAKOLONGO AREA",
     "area": "NORTHERN PROVINCE"
+},{
+    "group": "A",
+    "name": "Old Kabanana",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "A",
+    "name": "Mochipapa",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "A",
+    "name": "Mochipapa Research",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "A",
+    "name": "Mwapona",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "A",
+    "name": "kachacha",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "A",
+    "name": "part of Zambia compound",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "A",
+    "name": "Shampande A",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "A",
+    "name": "Overspill &Kala Farms",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "A",
+    "name": "Choma Milling",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "A",
+    "name": "Montgomery",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "A",
+    "name": "Lundwe area",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "B",
+    "name": "Sibanyati",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "B",
+    "name": "part of Zambia compound",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "B",
+    "name": "part of Over spill",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "B",
+    "name": "Nazilongo",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "B",
+    "name": "Mukwela",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "B",
+    "name": "Bwacha",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "B",
+    "name": "Mangrimod",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "B",
+    "name": "Margerma",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "B",
+    "name": "Low density",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "B",
+    "name": "Town centre",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "B",
+    "name": "Kataba",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "B",
+    "name": "Mbeza area",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "B",
+    "name": "Macha Mission",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "B",
+    "name": "Lilanda",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "B",
+    "name": "Chibolya A & B",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "B",
+    "name": "Chawama",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "B",
+    "name": "Mbabala",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "B",
+    "name": "Ngoma",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "B",
+    "name": "Basanga",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "B",
+    "name": "Lubwe",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "B",
+    "name": "Ndudumwezi",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "B",
+    "name": "Masasabi",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "B",
+    "name": "Itumbi Palance",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "B",
+    "name": "Shelter",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "C",
+    "name": "Chandamali",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "C",
+    "name": "Mukansa",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "C",
+    "name": "Macha rd",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "C",
+    "name": "Duba Farms",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "C",
+    "name": "New Kabanana",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "C",
+    "name": "Popota area",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "C",
+    "name": "Kamunza",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "C",
+    "name": "part of Adastra",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "C",
+    "name": "Njase",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "C",
+    "name": "Batoka",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "C",
+    "name": "Muzoka",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "C",
+    "name": "Harmony",
+    "area": "CHOMA, MAAMBA, NAMWALA, ITT"
+}, {
+    "group": "A",
+    "name": "Mazabuka town",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "A",
+    "name": "Mulonga",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "A",
+    "name": "Nakambala",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "A",
+    "name": "apolo",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "A",
+    "name": "ziah",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "A",
+    "name": "West villa",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "A",
+    "name": "Ndeke",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "A",
+    "name": "Overspil and zambia compound",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "A",
+    "name": "Mulimo farm",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "A",
+    "name": "Showgrounds",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "A",
+    "name": "Mweemba",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "A",
+    "name": "Lukata Two",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "A",
+    "name": "kapinga",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "A",
+    "name": "Syringa",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "A",
+    "name": "Parma",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "A",
+    "name": "Kangila",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "A",
+    "name": "Mbaya musuma",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "A",
+    "name": "Lochnivar",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "A",
+    "name": "All farms around Monze",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "A",
+    "name": "Chisekese",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "A",
+    "name": "Pemba",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "A",
+    "name": "Munyumbwe and Chipepo",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "B",
+    "name": "MGM Farms",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "B",
+    "name": "Nanga farmsS",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "B",
+    "name": "Hamapula Farms",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "B",
+    "name": "Lobomba township",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "B",
+    "name": "All farms along Namaluba area and water valley",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "B",
+    "name": "Chisoba farms",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "B",
+    "name": "Simonga farms",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "B",
+    "name": "Konkola high school",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "B",
+    "name": "Chivuna Area",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "B",
+    "name": "All farms along lusaka",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "B",
+    "name": "Kasshiya farms.",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "C",
+    "name": "Nzimbi farms",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "C",
+    "name": "Duploys farms",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "C",
+    "name": "Mubuyu farms",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "C",
+    "name": "Conventry farms",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "C",
+    "name": "Oklahoma farms",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "C",
+    "name": "New chikankata Distict offices",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "C",
+    "name": "Kalinda farms",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "C",
+    "name": "Edvav farmUpper kaleya farms",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "C",
+    "name": "Gypsum mining",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "C",
+    "name": "All farms along monze road",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "C",
+    "name": "Chisekes",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "C",
+    "name": "Pemba",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "C",
+    "name": "Gwembe Munyumbwe and Chipepo",
+    "area": "MAZABUKA AND MONZE"
+}, {
+    "group": "A",
+    "name": "Ellaine brittle",
+    "area": "LIVINGSTONE, ZIMBA, KANZUNGILA AND SESHEKE"
+}, {
+    "group": "A",
+    "name": "Highlands",
+    "area": "LIVINGSTONE, ZIMBA, KANZUNGILA AND SESHEKE"
+}, {
+    "group": "A",
+    "name": "Zimba",
+    "area": "LIVINGSTONE, ZIMBA, KANZUNGILA AND SESHEKE"
+}, {
+    "group": "A",
+    "name": "Kalomo",
+    "area": "LIVINGSTONE, ZIMBA, KANZUNGILA AND SESHEKE"
+}, {
+    "group": "A",
+    "name": "Senkobe and Customer along Airport road notbroad and surroundings",
+    "area": "LIVINGSTONE, ZIMBA, KANZUNGILA AND SESHEKE"
+}, {
+    "group": "A",
+    "name": "DSV",
+    "area": "LIVINGSTONE, ZIMBA, KANZUNGILA AND SESHEKE"
+}, {
+    "group": "A",
+    "name": "part of Dambwe site and service",
+    "area": "LIVINGSTONE, ZIMBA, KANZUNGILA AND SESHEKE"
+}, {
+    "group": "B",
+    "name": "Town centre",
+    "area": "LIVINGSTONE, ZIMBA, KANZUNGILA AND SESHEKE"
+}, {
+    "group": "B",
+    "name": "maramba Linda cpd Ngwenya",
+    "area": "LIVINGSTONE, ZIMBA, KANZUNGILA AND SESHEKE"
+}, {
+    "group": "B",
+    "name": "part 217 Dambwa industrial Area",
+    "area": "LIVINGSTONE, ZIMBA, KANZUNGILA AND SESHEKE"
+}, {
+    "group": "B",
+    "name": "prisons",
+    "area": "LIVINGSTONE, ZIMBA, KANZUNGILA AND SESHEKE"
+}, {
+    "group": "B",
+    "name": "police compound",
+    "area": "LIVINGSTONE, ZIMBA, KANZUNGILA AND SESHEKE"
+}, {
+    "group": "B",
+    "name": "OP fair mount zesco regional office",
+    "area": "LIVINGSTONE, ZIMBA, KANZUNGILA AND SESHEKE"
+}, {
+    "group": "B",
+    "name": "AVANI",
+    "area": "LIVINGSTONE, ZIMBA, KANZUNGILA AND SESHEKE"
+}, {
+    "group": "C",
+    "name": "Town centre",
+    "area": "LIVINGSTONE, ZIMBA, KANZUNGILA AND SESHEKE"
+}, {
+    "group": "C",
+    "name": "part 217",
+    "area": "LIVINGSTONE, ZIMBA, KANZUNGILA AND SESHEKE"
+}, {
+    "group": "C",
+    "name": "Mukuni nakatindi more light",
+    "area": "LIVINGSTONE, ZIMBA, KANZUNGILA AND SESHEKE"
+}, {
+    "group": "C",
+    "name": "National milling and surrounding areas",
+    "area": "LIVINGSTONE, ZIMBA, KANZUNGILA AND SESHEKE"
+}, {
+    "group": "C",
+    "name": "guests houses along kazungula road",
+    "area": "LIVINGSTONE, ZIMBA, KANZUNGILA AND SESHEKE"
+}, {
+    "group": "C",
+    "name": "farms along kazungula road and kazungula district",
+    "area": "LIVINGSTONE, ZIMBA, KANZUNGILA AND SESHEKE"
 }
 ]
