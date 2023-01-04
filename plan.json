@@ -1426,192 +1426,50 @@
     "14T23": "E",
     "05T14": "D",
     "16T24": "C"
-},{
-    "today": "12/15/2022","area": "NORTH WESTERN PROVINCE",
-    "00T06": "A",
-    "06T12": "B",
-    "12T18": "C",
-    "18T24": "D"
-}, {
-    "today": "12/16/2022","area": "NORTH WESTERN PROVINCE",
-    "00T06": "B",
-    "06T12": "C",
-    "12T18": "D",
-    "18T24": "A"
-}, {
-    "today": "12/17/2022","area": "NORTH WESTERN PROVINCE",
-    "00T06": "C",
-    "06T12": "D",
-    "12T18": "A",
-    "18T24": "B"
-}, {
-    "today": "12/18/2022","area": "NORTH WESTERN PROVINCE",
-    "00T06": "D",
-    "06T12": "A",
-    "12T18": "B",
-    "18T24": "C"
-}, {
-    "today": "12/19/2022","area": "NORTH WESTERN PROVINCE",
-    "00T06": "A",
-    "06T12": "B",
-    "12T18": "C",
-    "18T24": "D"
-}, {
-    "today": "12/20/2022","area": "NORTH WESTERN PROVINCE",
-    "00T06": "B",
-    "06T12": "C",
-    "12T18": "D",
-    "18T24": "A"
-}, {
-    "today": "12/21/2022","area": "NORTH WESTERN PROVINCE",
-    "00T06": "C",
-    "06T12": "D",
-    "12T18": "A",
-    "18T24": "B"
-}, {
-    "today": "12/22/2022","area": "NORTH WESTERN PROVINCE",
-    "00T06": "D",
-    "06T12": "A",
-    "12T18": "B",
-    "18T24": "C"
-}, {
-    "today": "12/23/2022","area": "NORTH WESTERN PROVINCE",
-    "00T06": "A",
-    "06T12": "B",
-    "12T18": "C",
-    "18T24": "D"
-}, {
-    "today": "12/24/2022","area": "NORTH WESTERN PROVINCE",
-    "00T06": "B",
-    "06T12": "C",
-    "12T18": "D",
-    "18T24": "A"
-}, {
-    "today": "12/25/2022","area": "NORTH WESTERN PROVINCE",
-    "00T06": "C",
-    "06T12": "D",
-    "12T18": "A",
-    "18T24": "B"
-}, {
-    "today": "12/26/2022","area": "NORTH WESTERN PROVINCE",
-    "00T06": "D",
-    "06T12": "A",
-    "12T18": "B",
-    "18T24": "C"
-}, {
-    "today": "12/27/2022","area": "NORTH WESTERN PROVINCE",
-    "00T06": "A",
-    "06T12": "B",
-    "12T18": "C",
-    "18T24": "D"
-}, {
-    "today": "12/28/2022","area": "NORTH WESTERN PROVINCE",
-    "00T06": "B",
-    "06T12": "C",
-    "12T18": "D",
-    "18T24": "A"
-}, {
-    "today": "12/29/2022","area": "NORTH WESTERN PROVINCE",
-    "00T06": "C",
-    "06T12": "D",
-    "12T18": "A",
-    "18T24": "B"
-}, {
-    "today": "12/30/2022","area": "NORTH WESTERN PROVINCE",
-    "00T06": "D",
-    "06T12": "A",
-    "12T18": "B",
-    "18T24": "C"
-}, {
-    "today": "12/31/2022","area": "NORTH WESTERN PROVINCE",
-    "00T06": "A",
-    "06T12": "B",
-    "12T18": "C",
-    "18T24": "D"
-}, {
-    "today": "1/1/2023","area": "NORTH WESTERN PROVINCE",
-    "00T06": "B",
-    "06T12": "C",
-    "12T18": "D",
-    "18T24": "A"
-}, {
-    "today": "1/2/2023","area": "NORTH WESTERN PROVINCE",
-    "00T06": "C",
-    "06T12": "D",
-    "12T18": "A",
-    "18T24": "B"
-}, {
-    "today": "1/3/2023","area": "NORTH WESTERN PROVINCE",
-    "00T06": "D",
-    "06T12": "A",
-    "12T18": "B",
-    "18T24": "C"
 }, {
     "today": "1/4/2023","area": "NORTH WESTERN PROVINCE",
-    "00T06": "A",
-    "06T12": "B",
-    "12T18": "C",
-    "18T24": "D"
+    "00T12": "B",
+    "12T00": "C"
 }, {
     "today": "1/5/2023","area": "NORTH WESTERN PROVINCE",
-    "00T06": "B",
-    "06T12": "C",
-    "12T18": "D",
-    "18T24": "A"
+    "00T12": "A",
+    "12T00": "B"
 }, {
     "today": "1/6/2023","area": "NORTH WESTERN PROVINCE",
-    "00T06": "C",
-    "06T12": "D",
-    "12T18": "A",
-    "18T24": "B"
+    "00T12": "C",
+    "12T00": "A"
 }, {
     "today": "1/7/2023","area": "NORTH WESTERN PROVINCE",
-    "00T06": "D",
-    "06T12": "A",
-    "12T18": "B",
-    "18T24": "C"
+    "00T12": "B",
+    "12T00": "C"
 }, {
     "today": "1/8/2023","area": "NORTH WESTERN PROVINCE",
-    "00T06": "A",
-    "06T12": "B",
-    "12T18": "C",
-    "18T24": "D"
+    "00T12": "A",
+    "12T00": "B"
 }, {
     "today": "1/9/2023","area": "NORTH WESTERN PROVINCE",
-    "00T06": "B",
-    "06T12": "C",
-    "12T18": "D",
-    "18T24": "A"
+    "00T12": "C",
+    "12T00": "A"
 }, {
     "today": "1/10/2023","area": "NORTH WESTERN PROVINCE",
-    "00T06": "C",
-    "06T12": "D",
-    "12T18": "A",
-    "18T24": "B"
+    "00T12": "B",
+    "12T00": "C"
 }, {
     "today": "1/11/2023","area": "NORTH WESTERN PROVINCE",
-    "00T06": "D",
-    "06T12": "A",
-    "12T18": "B",
-    "18T24": "C"
+    "00T12": "A",
+    "12T00": "B"
 }, {
     "today": "1/12/2023","area": "NORTH WESTERN PROVINCE",
-    "00T06": "A",
-    "06T12": "B",
-    "12T18": "C",
-    "18T24": "D"
+    "00T12": "C",
+    "12T00": "A"
 }, {
     "today": "1/13/2023","area": "NORTH WESTERN PROVINCE",
-    "00T06": "B",
-    "06T12": "C",
-    "12T18": "D",
-    "18T24": "A"
+    "00T12": "B",
+    "12T00": "C"
 }, {
     "today": "1/14/2023","area": "NORTH WESTERN PROVINCE",
-    "00T06": "C",
-    "06T12": "D",
-    "12T18": "A",
-    "18T24": "B"
+    "00T12": "A",
+    "12T00": "B"
 }, {
     "today": "12/15/2022","area": "KITWE , KALULUSHI",
     "00T06": "A",
@@ -2350,84 +2208,51 @@
     "12T18": "D",
     "18T24": "F",
     "area": "MUFULIRA"
+},  {
+    "today": "1/4/2023","area": "MUFULIRA",
+    "00T12": "B",
+    "12T24": "C"
 }, {
-    "today": "1/4/2023",
-    "00T06": "A",
-    "06T12": "B",
-    "12T18": "C",
-    "18T24": "E",
-    "area": "MUFULIRA"
+    "today": "1/5/2023","area": "MUFULIRA",
+    "00T12": "A",
+    "12T24": "B"
 }, {
-    "today": "1/5/2023",
-    "00T06": "D",
-    "06T12": "A",
-    "12T18": "B",
-    "18T24": "F",
-    "area": "MUFULIRA"
+    "today": "1/6/2023","area": "MUFULIRA",
+    "00T12": "C",
+    "12T24": "A"
 }, {
-    "today": "1/6/2023",
-    "00T06": "C",
-    "06T12": "D",
-    "12T18": "A",
-    "18T24": "E",
-    "area": "MUFULIRA"
+    "today": "1/7/2023","area": "MUFULIRA",
+    "00T12": "B",
+    "12T24": "C"
 }, {
-    "today": "1/7/2023",
-    "00T06": "B",
-    "06T12": "C",
-    "12T18": "D",
-    "18T24": "F",
-    "area": "MUFULIRA"
+    "today": "1/8/2023","area": "MUFULIRA",
+    "00T12": "A",
+    "12T24": "B"
 }, {
-    "today": "1/8/2023",
-    "00T06": "A",
-    "06T12": "B",
-    "12T18": "C",
-    "18T24": "E",
-    "area": "MUFULIRA"
+    "today": "1/9/2023","area": "MUFULIRA",
+    "00T12": "C",
+    "12T24": "A"
 }, {
-    "today": "1/9/2023",
-    "00T06": "D",
-    "06T12": "A",
-    "12T18": "B",
-    "18T24": "F",
-    "area": "MUFULIRA"
+    "today": "1/10/2023","area": "MUFULIRA",
+    "00T12": "B",
+    "12T24": "C"
 }, {
-    "today": "1/10/2023",
-    "00T06": "C",
-    "06T12": "D",
-    "12T18": "A",
-    "18T24": "E",
-    "area": "MUFULIRA"
+    "today": "1/11/2023","area": "MUFULIRA",
+    "00T12": "A",
+    "12T24": "B"
 }, {
-    "today": "1/11/2023",
-    "00T06": "B",
-    "06T12": "C",
-    "12T18": "D",
-    "18T24": "F",
-    "area": "MUFULIRA"
+    "today": "1/12/2023","area": "MUFULIRA",
+    "00T12": "C",
+    "12T24": "A"
 }, {
-    "today": "1/12/2023",
-    "00T06": "A",
-    "06T12": "B",
-    "12T18": "C",
-    "18T24": "E",
-    "area": "MUFULIRA"
+    "today": "1/13/2023","area": "MUFULIRA",
+    "00T12": "B",
+    "12T24": "C"
 }, {
-    "today": "1/13/2023",
-    "00T06": "D",
-    "06T12": "A",
-    "12T18": "B",
-    "18T24": "F",
-    "area": "MUFULIRA"
-}, {
-    "today": "1/14/2023",
-    "00T06": "C",
-    "06T12": "D",
-    "12T18": "A",
-    "18T24": "E",
-    "area": "MUFULIRA"
-}, {
+    "today": "1/14/2023","area": "MUFULIRA",
+    "00T12": "A",
+    "12T24": "B"
+},  {
     "today": "12/15/2022",
     "00T06": "A",
     "06T12": "B",
@@ -2568,82 +2393,49 @@
     "18T24": "B",
     "area": "CHINGOLA, CHILILABOMBWE, CHAMBESHI "
 }, {
-    "today": "1/4/2023",
-    "00T06": "C",
-    "06T12": "D",
-    "12T18": "E",
-    "18T24": "F",
-    "area": "CHINGOLA, CHILILABOMBWE, CHAMBESHI "
+    "today": "1/4/2023","area": "CHINGOLA, CHILILABOMBWE, CHAMBESHI ",
+    "00T12": "A",
+    "12T24": "B"
 }, {
-    "today": "1/5/2023",
-    "00T06": "A",
-    "06T12": "B",
-    "12T18": "C",
-    "18T24": "D",
-    "area": "CHINGOLA, CHILILABOMBWE, CHAMBESHI "
+    "today": "1/5/2023","area": "CHINGOLA, CHILILABOMBWE, CHAMBESHI ",
+    "00T12": "B",
+    "12T24": "A"
 }, {
-    "today": "1/6/2023",
-    "00T06": "E",
-    "06T12": "F",
-    "12T18": "A",
-    "18T24": "B",
-    "area": "CHINGOLA, CHILILABOMBWE, CHAMBESHI "
+    "today": "1/6/2023","area": "CHINGOLA, CHILILABOMBWE, CHAMBESHI ",
+    "00T12": "A",
+    "12T24": "B"
 }, {
-    "today": "1/7/2023",
-    "00T06": "C",
-    "06T12": "D",
-    "12T18": "E",
-    "18T24": "F",
-    "area": "CHINGOLA, CHILILABOMBWE, CHAMBESHI "
+    "today": "1/7/2023","area": "CHINGOLA, CHILILABOMBWE, CHAMBESHI ",
+    "00T12": "B",
+    "12T24": "A"
 }, {
-    "today": "1/8/2023",
-    "00T06": "A",
-    "06T12": "B",
-    "12T18": "C",
-    "18T24": "D",
-    "area": "CHINGOLA, CHILILABOMBWE, CHAMBESHI "
+    "today": "1/8/2023","area": "CHINGOLA, CHILILABOMBWE, CHAMBESHI ",
+    "00T12": "A",
+    "12T24": "B"
 }, {
-    "today": "1/9/2023",
-    "00T06": "E",
-    "06T12": "F",
-    "12T18": "A",
-    "18T24": "B",
-    "area": "CHINGOLA, CHILILABOMBWE, CHAMBESHI "
+    "today": "1/9/2023","area": "CHINGOLA, CHILILABOMBWE, CHAMBESHI ",
+    "00T12": "B",
+    "12T24": "A"
 }, {
-    "today": "1/10/2023",
-    "00T06": "C",
-    "06T12": "D",
-    "12T18": "E",
-    "18T24": "F",
-    "area": "CHINGOLA, CHILILABOMBWE, CHAMBESHI "
+    "today": "1/10/2023","area": "CHINGOLA, CHILILABOMBWE, CHAMBESHI ",
+    "00T12": "A",
+    "12T24": "B"
 }, {
-    "today": "1/11/2023",
-    "00T06": "A",
-    "06T12": "B",
-    "12T18": "C",
-    "18T24": "D",
-    "area": "CHINGOLA, CHILILABOMBWE, CHAMBESHI "
+    "today": "1/11/2023","area": "CHINGOLA, CHILILABOMBWE, CHAMBESHI ",
+    "00T12": "B",
+    "12T24": "A"
 }, {
-    "today": "1/12/2023",
-    "00T06": "E",
-    "06T12": "F",
-    "12T18": "A",
-    "18T24": "B",
-    "area": "CHINGOLA, CHILILABOMBWE, CHAMBESHI "
+    "today": "1/12/2023","area": "CHINGOLA, CHILILABOMBWE, CHAMBESHI ",
+    "00T12": "A",
+    "12T24": "B"
 }, {
-    "today": "1/13/2023",
-    "00T06": "C",
-    "06T12": "D",
-    "12T18": "E",
-    "18T24": "F",
-    "area": "CHINGOLA, CHILILABOMBWE, CHAMBESHI "
+    "today": "1/13/2023","area": "CHINGOLA, CHILILABOMBWE, CHAMBESHI ",
+    "00T12": "B",
+    "12T24": "A"
 }, {
-    "today": "1/14/2023",
-    "00T06": "A",
-    "06T12": "B",
-    "12T18": "C",
-    "18T24": "D",
-    "area": "CHINGOLA, CHILILABOMBWE, CHAMBESHI "
+    "today": "1/14/2023","area": "CHINGOLA, CHILILABOMBWE, CHAMBESHI ",
+    "00T12": "A",
+    "12T24": "B"
 }, {
     "today": "12/15/2022",
     "06T12": "B",
