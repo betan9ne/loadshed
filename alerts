@@ -1,5 +1,10 @@
 [
 {
+  "title": "Schedule Notice",
+  "content" : "Hi Everyone, as you know ZESCO has updated its schedule again. No worries, we are making changes on our end as well to accommodate this. Thank you for your support.",
+  "createdAt" : "01/09/2023"
+  },
+{
   "title" : "Release to iOS",
   "content" : "We are working hard to release the app on all platforms and should ready soon",
   "createdAt" : "12/19/2022"
